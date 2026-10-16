@@ -1,0 +1,31 @@
+{
+  "name": "Tet",
+  "symbol": "US",
+  "decimals": 6,
+  "totalSupply": 3000000000000000,
+  "owner": "TYtxrq9XLZZxxJ7gmedFa6BULmN5NtKDDv"
+}
+standard Transfer events visible: 20  
+
+raw txs scanned: 238 | transfer() calls: 179 | volume: 126,472,723.02
+distinct callers: 61 | distinct recipients: 146
+top callers:
+  TYtxrq9XLZZxxJ7gmedFa6BULmN5NtKDDv  51
+  TMzAeXn1SKQgfkVpzfB6KbTSSmEufGWdLa  18
+  TSJQsfUzKCwiQbcZwBx12jHKr7cbkHqmrx  15
+  TNwDxHepCpa85Wrc1iWPXFpjjQ4CguB16z  13
+  TP21AAj5AcsNwfkk7BhHNd3ZezWkmYb5kc  11
+  TUgsKZiRCU8u2E7PAJspatAuEu4bDfLcYg  11
+  TRrkFZXMXeRdpuYgqJiMmFMCDnG8RfkXYU  11
+  TWYEfUBDsF1tVNpQb6F5A6Z8KZ2e4Ndy3r  11
+top recipients:
+  TMzAeXn1SKQgfkVpzfB6KbTSSmEufGWdLa  7
+  TL7wCRBaLfkPPg3DNQiAmCo2UKPNUjLhku  6
+  TA5dFC1froZPjcAAmrwvDsDGtAQfH5rs3v  4
+  TFzpreMh8TFf3kBLbvGMD7Yo9nbGhvj8KU  2
+  TG4kUpMwbczTaW1qeVsUSnAkUz63URka5p  2
+  TP21AAj5AcsNwfkk7BhHNd3ZezWkmYb5kc  2
+  TKgLBrFdByMfe2txWVcj8At9Q2vPix7sji  2
+  TETHc5bMjAzynKD6S7ZpVMuqv9hWZqUSNV  2
+activity span: 2026-09-26 15:28:57+00:00 -> 2026-10-16 17:17:27+00:00
+block span: 86588044 -> 87166029

@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+.gh_token
+*.env
